@@ -1,6 +1,4 @@
 ## Hi, I’m Huimin Lin👋
-*This text is italicized*
-- **This text is _extremely_ important**
 - 👀 I’m an Aspiring Software Engineer who is studying Python/SQL in HyperionDev
 - 🌱 Used to work in Beijing as Product Manager, now live in London
 - 💞️ I take great care in the experience, architecture, and code quality of the things I build.
