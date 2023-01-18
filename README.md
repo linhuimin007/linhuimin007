@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @linhuimin007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I’m Huimin Lin👋
+*This text is italicized*
+- **This text is _extremely_ important**
+- 👀 I’m an Aspiring Software Engineer who is studying Python/SQL in HyperionDev
+- 🌱 Used to work in Beijing as Product Manager, now live in London
+- 💞️ I take great care in the experience, architecture, and code quality of the things I build.
+- 💬 You can get in touch with me by email at linhuimin007@gmail.com and [LinkedIn](https://www.linkedin.com/in/huimin-lin-509b3b101/).
+
+
+- My visitors
+![Visitor Count](https://profile-counter.glitch.me/linhuimin007/count.svg)
+- Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhuimin007)](https://github.com/linhuimin007/github-readme-stats)
 
 <!---
 linhuimin007/linhuimin007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![image](https://user-images.githubusercontent.com/93885882/213310766-076b950f-4d76-4ee1-893a-fec19fab428c.png)
