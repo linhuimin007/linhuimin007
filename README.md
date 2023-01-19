@@ -9,8 +9,6 @@
 - My visitors
 ![Visitor Count](https://profile-counter.glitch.me/linhuimin007/count.svg)
 
-- Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhuimin007)](https://github.com/linhuimin007/github-readme-stats)
 
 ![image](https://user-images.githubusercontent.com/93885882/213424928-085000ec-66a7-4d92-ae82-42a98af39b45.png)
 
