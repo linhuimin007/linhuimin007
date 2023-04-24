@@ -1,10 +1,9 @@
 ## Hi, I’m Huimin Lin👋
 
-- 👀 I’m an Aspiring Software Engineer who is studying Python/SQL in HyperionDev
-- 🌱 Used to work in Beijing as Product Manager, now live in London
+- 👀 I’m a Software Engineer
+- 🌱 Used to work in Beijing, now live in London
 - 💞️ I take great care in the experience, architecture, and code quality of the things I build.
-- 💬 You can get in touch with me by email at linhuimin007@gmail.com and [LinkedIn](https://www.linkedin.com/in/huimin-lin-509b3b101/).
-
+- 💬 You can get in touch with me by email at linhuimin007@gmail.com
 
 - My visitors
 ![Visitor Count](https://profile-counter.glitch.me/linhuimin007/count.svg)
